@@ -1,0 +1,8 @@
+Method,Accuracy,Time (sec)
+TF-IDF Standard,0.8647,6.9
+Binary (Presence),0.8613,7.12
+TF-IDF Bigrams,0.8576,13.83
+Bag of Words (Counts),0.852,11.57
+BERT (all-MiniLM-L6-v2),0.8138,925.73
+Doc2Vec,0.6631,241.03
+Word2Vec (Average),0.5117,30.28
