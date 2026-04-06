@@ -1,0 +1,21 @@
+# Основные библиотеки для работы с данными
+numpy
+pandas
+
+# Машинное обучение и метрики
+scikit-learn
+
+# Обработка текста и эмбеддинги (Word2Vec, Doc2Vec)
+gensim
+
+# Современные трансформеры (BERT)
+sentence-transformers
+torch
+
+# Инструменты для работы с ноутбуками
+ipykernel
+notebook
+
+# Визуализация 
+matplotlib
+seaborn
