@@ -1,4 +1,5 @@
 /.ipynb_checkpoints
 /d_venv
 /data
-/data_old
+**/__pycache__**
+**/.ipynb_checkpoints/

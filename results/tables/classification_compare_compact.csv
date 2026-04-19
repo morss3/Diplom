@@ -1,8 +1,0 @@
-Method,Vectorization Time,Training Time,Total Time,Accuracy
-BERT,568.09,91.59,659.68,0.6989
-TF-IDF Standard,1.64,163.82,165.46,0.6907
-TF-IDF Bigrams,4.93,182.13,187.06,0.6862
-Binary,1.78,69.01,70.79,0.6427
-Bag of Words,1.92,172.86,174.78,0.6371
-Doc2Vec,78.44,2.32,80.76,0.5324
-Word2Vec,11.2,7.74,18.94,0.366
